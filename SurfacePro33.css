@@ -1,0 +1,341 @@
+.surface-pro-3-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 742px;
+  height: 990px;
+}
+.surface-pro-3-3-item {
+  position: absolute;
+  top: 433px;
+  left: -180px;
+  border-radius: 50%;
+  background-color: var(--color-goldenrod-200);
+  filter: blur(350px);
+  width: 640px;
+  height: 640px;
+}
+.cars-button1,
+.lambo-button1 {
+  position: absolute;
+  top: 48px;
+  left: 69px;
+}
+.cars-button1 {
+  left: 845px;
+}
+.about-us-1,
+.service-support1 {
+  position: absolute;
+  top: 48px;
+  left: 951px;
+}
+.service-support1 {
+  left: 1106px;
+}
+.line-1-button1,
+.line-2-button1 {
+  position: absolute;
+  top: 52.5px;
+  left: 713.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 50px;
+  height: 3px;
+}
+.line-2-button1 {
+  top: 66.5px;
+  left: 712.5px;
+  border-top: 5px solid var(--color-white);
+  width: 52px;
+  height: 5px;
+}
+.except-the1 {
+  margin: 0;
+}
+.except-the-unexpected-container1,
+.lambo1 {
+  position: absolute;
+  top: 163px;
+  left: 129px;
+  font-size: var(--font-size-45xl);
+  line-height: 70px;
+}
+.lambo1 {
+  top: 243px;
+  left: 477px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-goldenrod-100);
+}
+.offering-the-thrilled1 {
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.shift-your-gears-container1 {
+  position: absolute;
+  top: 353px;
+  left: 129px;
+  line-height: 35px;
+  display: inline-block;
+  width: 606px;
+}
+.rectangle-2-button1,
+.surface-pro-3-3-inner {
+  position: absolute;
+  top: 526px;
+  left: 152px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod-100);
+  box-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
+  width: 215px;
+  height: 66px;
+}
+.surface-pro-3-3-inner {
+  top: 190px;
+  left: 1127px;
+  border-radius: var(--br-8xs);
+  width: 194px;
+  height: 78px;
+}
+.book-a-test1,
+.configure-yours1 {
+  position: absolute;
+  top: 524px;
+  left: 188px;
+  font-size: var(--font-size-xl);
+  line-height: 70px;
+}
+.configure-yours1 {
+  left: 389px;
+}
+.surface-pro-3-3-child1,
+.surface-pro-3-3-child2 {
+  position: absolute;
+  top: 207px;
+  left: 1148.69px;
+  width: 28px;
+  height: 28px;
+}
+.surface-pro-3-3-child2 {
+  left: 1179.69px;
+}
+.surface-pro-3-3-child3,
+.surface-pro-3-3-child4,
+.surface-pro-3-3-child5 {
+  position: absolute;
+  top: 207px;
+  left: 1210.69px;
+  width: 28px;
+  height: 28px;
+}
+.surface-pro-3-3-child4,
+.surface-pro-3-3-child5 {
+  left: 1241.69px;
+}
+.surface-pro-3-3-child5 {
+  left: 1272.69px;
+}
+.reviews1 {
+  position: absolute;
+  top: 235px;
+  left: 1148px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.kg1,
+.km1,
+.kmhr1,
+.l1 {
+  position: absolute;
+  top: 717px;
+  left: 857px;
+}
+.kg1,
+.km1,
+.l1 {
+  left: 997px;
+}
+.kg1,
+.l1 {
+  left: 1103px;
+}
+.kg1 {
+  left: 1192px;
+}
+.fuel-capacity1,
+.milege1,
+.speed1,
+.weight1 {
+  position: absolute;
+  top: 748px;
+  left: 898px;
+  font-size: var(--font-size-3xs);
+}
+.fuel-capacity1,
+.milege1,
+.weight1 {
+  top: 745px;
+  left: 1016px;
+}
+.fuel-capacity1,
+.weight1 {
+  top: 748px;
+  left: 1094px;
+}
+.weight1 {
+  left: 1217px;
+}
+.surface-pro-3-3-child6 {
+  position: absolute;
+  top: 468px;
+  left: 781px;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(55, 51, 51, 0),
+    rgba(50, 46, 46, 0.22) 25.88%,
+    #1f1e1e 65.05%
+  );
+  width: 606px;
+  height: 90px;
+}
+.b3,
+.group-icon {
+  position: absolute;
+  top: 11px;
+  left: -4px;
+  width: 45px;
+  height: 46px;
+}
+.b3 {
+  top: 0;
+  left: 13px;
+  line-height: 70px;
+  display: inline-block;
+  width: 12px;
+  height: 30px;
+}
+.group-parent1 {
+  position: absolute;
+  top: 3px;
+  left: 6px;
+  width: 37px;
+  height: 53px;
+}
+.b4,
+.frame-child1 {
+  position: absolute;
+  top: 7px;
+  left: 2px;
+  width: 48px;
+  height: 45px;
+}
+.b4 {
+  top: -6px;
+  left: 21px;
+  line-height: 70px;
+  display: inline-block;
+  width: 32px;
+  height: 54px;
+}
+.group-parent2 {
+  position: absolute;
+  top: -1px;
+  left: -5px;
+  width: 37px;
+  height: 53px;
+  /* overflow-y: auto; */
+}
+.frame-3-button-child,
+.frame-parent {
+  position: absolute;
+  top: 134px;
+  left: 0;
+  width: 50px;
+  height: 60px;
+  /* overflow-y: auto; */
+}
+.frame-3-button-child {
+  top: 0;
+  left: 13px;
+  width: 37px;
+}
+.frame-3-button-item {
+  position: absolute;
+  top: 144px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 50px;
+  height: 50px;
+}
+.b5 {
+  position: absolute;
+  top: 133px;
+  left: 14px;
+  font-size: var(--font-size-21xl);
+  line-height: 70px;
+  display: inline-block;
+  width: 32px;
+  height: 54px;
+}
+.frame-3-button1 {
+  position: absolute;
+  top: 657px;
+  left: 717px;
+  width: 50px;
+  height: 194px;
+  font-size: var(--font-size-xl);
+  color: var(--color-goldenrod-100);
+}
+.polygon-icon {
+  position: absolute;
+  top: 683.43px;
+  left: 285.6px;
+  width: 433px;
+  height: 191px;
+}
+.car-icon2,
+.car-icon3,
+.purepng-2-icon1 {
+  position: absolute;
+  top: 349px;
+  left: 804px;
+  width: 559.88px;
+  height: 222.86px;
+  object-fit: cover;
+}
+.car-icon3,
+.purepng-2-icon1 {
+  top: 2152px;
+  left: 705px;
+  width: 2109px;
+  height: 477px;
+}
+.car-icon3 {
+  top: 654px;
+  left: 0;
+  width: 303.88px;
+  height: 216px;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 798px;
+  left: 705px;
+  width: 76px;
+  height: 62px;
+  mix-blend-mode: color-dodge;
+}
+.surface-pro-3-3 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #262626, #252525);
+  box-shadow: 30px 30px 40px #101010;
+  width: 100%;
+  height: 870px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

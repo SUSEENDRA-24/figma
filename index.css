@@ -1,0 +1,357 @@
+.surface-pro-3-1-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 742px;
+  height: 990px;
+}
+.surface-pro-3-1-item {
+  position: absolute;
+  top: 433px;
+  left: -180px;
+  border-radius: 50%;
+  background-color: var(--color-goldenrod-200);
+  filter: blur(350px);
+  width: 640px;
+  height: 640px;
+}
+.cars-button2,
+.lambo2 {
+  position: absolute;
+  top: 48px;
+  left: 69px;
+}
+.cars-button2 {
+  left: 845px;
+}
+.about-us-2,
+.service-support2 {
+  position: absolute;
+  top: 48px;
+  left: 951px;
+}
+.service-support2 {
+  left: 1106px;
+}
+.line-1-button2,
+.line-2-button2 {
+  position: absolute;
+  top: 52.5px;
+  left: 713.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 50px;
+  height: 3px;
+}
+.line-2-button2 {
+  top: 66.5px;
+  left: 712.5px;
+  border-top: 5px solid var(--color-white);
+  width: 52px;
+  height: 5px;
+}
+.except-the2 {
+  margin: 0;
+}
+.except-the-unexpected-container2,
+.lambo3 {
+  position: absolute;
+  top: 163px;
+  left: 129px;
+  font-size: var(--font-size-45xl);
+  line-height: 70px;
+}
+.lambo3 {
+  top: 243px;
+  left: 477px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-goldenrod-100);
+}
+.offering-the-thrilled2 {
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+.shift-your-gears-container2 {
+  position: absolute;
+  top: 353px;
+  left: 129px;
+  line-height: 35px;
+  display: inline-block;
+  width: 606px;
+}
+.rectangle-2-button2,
+.surface-pro-3-1-inner {
+  position: absolute;
+  top: 526px;
+  left: 152px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod-100);
+  box-shadow: 0 5px 6px rgba(0, 0, 0, 0.1);
+  width: 215px;
+  height: 66px;
+}
+.surface-pro-3-1-inner {
+  top: 190px;
+  left: 1127px;
+  border-radius: var(--br-8xs);
+  width: 194px;
+  height: 78px;
+}
+.book-a-test2,
+.configure-yours2 {
+  position: absolute;
+  top: 524px;
+  left: 188px;
+  font-size: var(--font-size-xl);
+  line-height: 70px;
+}
+.configure-yours2 {
+  left: 389px;
+}
+.surface-pro-3-1-child1,
+.surface-pro-3-1-child2 {
+  position: absolute;
+  top: 207px;
+  left: 1148.69px;
+  width: 28px;
+  height: 28px;
+}
+.surface-pro-3-1-child2 {
+  left: 1179.69px;
+}
+.surface-pro-3-1-child3,
+.surface-pro-3-1-child4,
+.surface-pro-3-1-child5 {
+  position: absolute;
+  top: 207px;
+  left: 1210.69px;
+  width: 28px;
+  height: 28px;
+}
+.surface-pro-3-1-child4,
+.surface-pro-3-1-child5 {
+  left: 1241.69px;
+}
+.surface-pro-3-1-child5 {
+  left: 1272.69px;
+}
+.reviews2 {
+  position: absolute;
+  top: 235px;
+  left: 1148px;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+}
+.kg2,
+.km2,
+.kmhr2,
+.l2 {
+  position: absolute;
+  top: 717px;
+  left: 857px;
+}
+.kg2,
+.km2,
+.l2 {
+  left: 997px;
+}
+.kg2,
+.l2 {
+  left: 1103px;
+}
+.kg2 {
+  left: 1192px;
+}
+.fuel-capacity2,
+.milege2,
+.speed2,
+.weight2 {
+  position: absolute;
+  top: 748px;
+  left: 898px;
+  font-size: var(--font-size-3xs);
+}
+.fuel-capacity2,
+.milege2,
+.weight2 {
+  top: 745px;
+  left: 1016px;
+}
+.fuel-capacity2,
+.weight2 {
+  top: 748px;
+  left: 1094px;
+}
+.weight2 {
+  left: 1217px;
+}
+.surface-pro-3-1-child6 {
+  position: absolute;
+  top: 468px;
+  left: 781px;
+  border-radius: 50%;
+  background: radial-gradient(
+    50% 50%at 50% 50%,
+    rgba(55, 51, 51, 0),
+    rgba(50, 46, 46, 0.22) 25.88%,
+    #1f1e1e 65.05%
+  );
+  width: 606px;
+  height: 90px;
+}
+.b6,
+.frame-child2 {
+  position: absolute;
+  top: 11px;
+  left: -4px;
+  width: 45px;
+  height: 46px;
+}
+.b6 {
+  top: 0;
+  left: 13px;
+  line-height: 70px;
+  display: inline-block;
+  width: 12px;
+  height: 30px;
+}
+.frame-child3,
+.group-parent3 {
+  position: absolute;
+  top: 10px;
+  left: 5px;
+  width: 37px;
+  height: 53px;
+}
+.frame-child3 {
+  top: 13px;
+  left: -4px;
+  width: 48px;
+  height: 45px;
+}
+.b7,
+.frame-group,
+.group-parent4 {
+  position: absolute;
+  top: 0;
+  height: 54px;
+}
+.b7 {
+  left: 15px;
+  line-height: 70px;
+  display: inline-block;
+  width: 32px;
+}
+.frame-group,
+.group-parent4 {
+  left: 0;
+  width: 47px;
+}
+.frame-group {
+  left: 1px;
+  height: 63px;
+}
+.frame-3-button-child1 {
+  position: absolute;
+  top: 17px;
+  left: 0;
+  border-radius: 50%;
+  background-color: var(--color-gray-200);
+  width: 50px;
+  height: 50px;
+}
+.b8 {
+  position: absolute;
+  top: 6px;
+  left: 14px;
+  font-size: var(--font-size-21xl);
+  line-height: 70px;
+  display: inline-block;
+  width: 32px;
+  height: 54px;
+}
+.frame-3-button2 {
+  position: absolute;
+  top: 784px;
+  left: 717px;
+  width: 50px;
+  height: 67px;
+  font-size: var(--font-size-xl);
+  color: var(--color-goldenrod-100);
+}
+.car-icon4,
+.car-icon5,
+.purepng-2-icon2 {
+  position: absolute;
+  top: 349px;
+  left: 804px;
+  width: 559.88px;
+  height: 222.86px;
+  object-fit: cover;
+}
+
+.car-icon5,
+.purepng-2-icon2 {
+  top: 2152px;
+  left: 705px;
+  width: 2109px;
+  height: 477px;
+}
+.car-icon5 {
+  top: 656.81px;
+  left: 0;
+  width: 303.88px;
+  height: 213.19px;
+}
+.surface-pro-3-1-child7 {
+  position: absolute;
+  top: 798px;
+  left: 705px;
+  width: 76px;
+  height: 62px;
+  mix-blend-mode: color-dodge;
+}
+.surface-pro-3-1 {
+  position: relative;
+  background: radial-gradient(50% 50%at 50% 50%, #262626, #252525);
+  box-shadow: 30px 30px 40px #101010;
+  width: 100%;
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+.image-container {
+  position: relative;
+  width: 300px; /* Adjust the width as per your requirement */
+  height: 200px; /* Adjust the height as per your requirement */
+}
+
+.image-container img {
+  position: absolute;
+  top: 10;
+  left: 0;
+  width: 20%;
+  height: 70%;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.image-container img:nth-child(2) {
+  opacity: 0;
+}
+
+.image-container:hover img:nth-child(1) {
+  opacity: 0;
+}
+
+.image-container:hover img:nth-child(2) {
+  opacity: 1;
+}
+.car-icon5:hover {
+  content: url("./public/Group 2.png");
+  /* margin-left: 50px; */
+} 
